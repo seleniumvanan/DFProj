@@ -19,6 +19,7 @@ import junit.framework.Assert;
 public class LoginTest extends BaseTest {
 	
 	//Comment here for Git testing purpose 
+	//comment for branch checkout changes to be tested at master get effect or not?
 	@BeforeClass
 	public void init() {
 		
