@@ -18,7 +18,8 @@ import junit.framework.Assert;
 
 public class LoginTest extends BaseTest {
 	
-	//Comment here for Git testing purpose 
+	//Comment here for Git testing purpose
+	//comment add at LoginTest.java file for git at 4:38pm 04/10/2020 
 	@BeforeClass
 	public void init() {
 		
