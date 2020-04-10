@@ -34,7 +34,7 @@ public class BaseTest {
 	  public WebDriver driver=null;
 		
 	  //Initialization
-	//Comment here for Git testing purpose 
+	
 	  public void initialise(){
 		  
 		  if(prop==null){
